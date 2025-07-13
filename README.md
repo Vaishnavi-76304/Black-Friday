@@ -86,8 +86,11 @@ how much they spend, businesses can improve their marketing strategies and custo
 
 🚀 How to Run
 1. Clone this repository:
-2. Launch Jupyter Notebook or upload the .ipynb file to Google Colab.
-3. Run all cells to explore the insights and visuals.
+   
+            https://github.com/Vaishnavi-76304/Black-Friday.git
+   
+3. Launch Jupyter Notebook or upload the .ipynb file to Google Colab.
+4. Run all cells to explore the insights and visuals.
 
 
 
